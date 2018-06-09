@@ -1,0 +1,44 @@
+/*Selector {
+	Property: value;
+}*/
+
+body  {
+	background-image: url(sea2.jpg) ;
+	background-size: cover;
+	 background-color: grey ;
+}
+
+h1
+
+{
+	color: yellow; 
+}
+h2,p {
+	color:white;
+	text-align : center ;
+	border : 5px solid rgb(255,175,150);
+	cursor: pointer ;
+}
+
+p {color:yellow;
+
+	}
+
+li {
+
+	list-style:  none;
+	list-style-type: square;
+	display: inline-block;
+	color:white;
+	border : 5px solid rgb(255,175,150);
+}
+
+
+ #div1 {
+ 	background:rgba(0,0,255,0.2);
+ }
+
+  #div2 {
+ 	background:rgba(255,100,0,0.2);
+ }
+
